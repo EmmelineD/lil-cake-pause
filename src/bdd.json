@@ -1,0 +1,41 @@
+[
+	{
+		"id": "bcl",
+		"title": "Box Cookies Lovers",
+		"pictures": [
+			""
+		],
+		"description": "Box composée de 2 cookies de chacune de mes recettes gourmandes !",
+		"price": "18"
+    },
+
+    {
+		"id": "bbc",
+		"title": "Box Brownie Crush",
+		"pictures": [
+			""
+		],
+		"description": "Brownie chocolat noir, cacahuètes (beurre de cacahuète et cacahuètes caramélisées) en format à partager...........................ou pas(8 portions environ)",
+		"price": "12"
+    },
+
+    {
+		"id": "bccu",
+		"title": "Box cookies chocolat ultra",
+		"pictures": [
+			""
+		],
+		"description": "Box composée au choix ,de 16 cookies 3 chocolat, de 16 cookies 4 chocolats/noisettes, de 8 cookies 3 chocolats et 8 cookies 4 chocolats/noisettes",
+		"price": "25"
+    },
+
+    {
+		"id": "bta",
+		"title": "Box tigrés addict",
+		"pictures": [
+			""
+		],
+		"description": "Box composée de 8 tigrés noisette et de 8 tigrés amande.",
+		"price": "20"
+    }
+]
