@@ -4,7 +4,7 @@
 ## Le Projet
 Création d'une maquette de site de comande/vente de cookie en ligne pour soutenir le développement du projet de création de l'entreprise Lil'Cake
 
-Status : En cours
+Status : Pause
 
 # Installation
 
